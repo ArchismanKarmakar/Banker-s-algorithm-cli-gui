@@ -14,10 +14,10 @@ C:\Users\Archisman Karmakar\Desktop\bankers-Algorithm-main\Bankers_Algorithm_GUI
 C:\Users\Archisman Karmakar\Desktop\bankers-Algorithm-main\Bankers_Algorithm_GUI\obj\Release\Bankers_Algorithm.Properties.Resources.resources
 C:\Users\Archisman Karmakar\Desktop\bankers-Algorithm-main\Bankers_Algorithm_GUI\obj\Release\Bankers_Algorithm.csproj.GenerateResource.cache
 C:\Users\Archisman Karmakar\Desktop\bankers-Algorithm-main\Bankers_Algorithm_GUI\obj\Release\Bankers_Algorithm.csproj.CoreCompileInputs.cache
-C:\Users\Archisman Karmakar\Desktop\bankers-Algorithm-main\Bankers_Algorithm_GUI\bin\Release\Bankers Algorithm.exe.config
-C:\Users\Archisman Karmakar\Desktop\bankers-Algorithm-main\Bankers_Algorithm_GUI\bin\Release\Bankers Algorithm.exe
-C:\Users\Archisman Karmakar\Desktop\bankers-Algorithm-main\Bankers_Algorithm_GUI\bin\Release\Bankers Algorithm.pdb
-C:\Users\Archisman Karmakar\Desktop\bankers-Algorithm-main\Bankers_Algorithm_GUI\obj\Release\Bankers Algorithm.exe
-C:\Users\Archisman Karmakar\Desktop\bankers-Algorithm-main\Bankers_Algorithm_GUI\obj\Release\Bankers Algorithm.pdb
-C:\Users\Archisman Karmakar\Desktop\bankers-Algorithm-main\Bankers_Algorithm_GUI\bin\Release\Bankers Algorithm.exe.CodeAnalysisLog.xml
-C:\Users\Archisman Karmakar\Desktop\bankers-Algorithm-main\Bankers_Algorithm_GUI\bin\Release\Bankers Algorithm.exe.lastcodeanalysissucceeded
+C:\Users\Archisman Karmakar\Desktop\bankers-Algorithm-main\Bankers_Algorithm_GUI\bin\Release\Banker's Algorithm.exe.config
+C:\Users\Archisman Karmakar\Desktop\bankers-Algorithm-main\Bankers_Algorithm_GUI\bin\Release\Banker's Algorithm.exe
+C:\Users\Archisman Karmakar\Desktop\bankers-Algorithm-main\Bankers_Algorithm_GUI\bin\Release\Banker's Algorithm.pdb
+C:\Users\Archisman Karmakar\Desktop\bankers-Algorithm-main\Bankers_Algorithm_GUI\bin\Release\Banker's Algorithm.exe.CodeAnalysisLog.xml
+C:\Users\Archisman Karmakar\Desktop\bankers-Algorithm-main\Bankers_Algorithm_GUI\bin\Release\Banker's Algorithm.exe.lastcodeanalysissucceeded
+C:\Users\Archisman Karmakar\Desktop\bankers-Algorithm-main\Bankers_Algorithm_GUI\obj\Release\Banker's Algorithm.exe
+C:\Users\Archisman Karmakar\Desktop\bankers-Algorithm-main\Bankers_Algorithm_GUI\obj\Release\Banker's Algorithm.pdb

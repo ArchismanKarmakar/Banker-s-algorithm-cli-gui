@@ -7,7 +7,7 @@
     <ProjectGuid>{FFF464A8-EC9D-4C4B-A4FF-9F0A5BA4F117}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>Bankers_Algorithm</RootNamespace>
-    <AssemblyName>Bankers Algorithm</AssemblyName>
+    <AssemblyName>Banker%27s Algorithm</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
