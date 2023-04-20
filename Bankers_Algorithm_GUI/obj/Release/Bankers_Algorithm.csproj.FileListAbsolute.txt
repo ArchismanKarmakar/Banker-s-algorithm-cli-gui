@@ -1,0 +1,23 @@
+C:\Users\ah132\source\repos\Bankers_Algorithm\bin\Release\Bankers_Algorithm.exe.config
+C:\Users\ah132\source\repos\Bankers_Algorithm\bin\Release\Bankers_Algorithm.exe
+C:\Users\ah132\source\repos\Bankers_Algorithm\bin\Release\Bankers_Algorithm.pdb
+C:\Users\ah132\source\repos\Bankers_Algorithm\obj\Release\Bankers_Algorithm.Form1.resources
+C:\Users\ah132\source\repos\Bankers_Algorithm\obj\Release\Bankers_Algorithm.Properties.Resources.resources
+C:\Users\ah132\source\repos\Bankers_Algorithm\obj\Release\Bankers_Algorithm.csproj.GenerateResource.cache
+C:\Users\ah132\source\repos\Bankers_Algorithm\obj\Release\Bankers_Algorithm.csproj.CoreCompileInputs.cache
+C:\Users\ah132\source\repos\Bankers_Algorithm\obj\Release\Bankers_Algorithm.exe
+C:\Users\ah132\source\repos\Bankers_Algorithm\obj\Release\Bankers_Algorithm.pdb
+C:\Users\ah132\source\repos\Bankers_Algorithm\obj\Release\Bankers_Algorithm.csprojAssemblyReference.cache
+C:\Users\Archisman Karmakar\Desktop\bankers-Algorithm-main\Bankers_Algorithm_GUI\obj\Release\Bankers_Algorithm.csproj.AssemblyReference.cache
+C:\Users\Archisman Karmakar\Desktop\bankers-Algorithm-main\Bankers_Algorithm_GUI\obj\Release\Bankers_Algorithm.csproj.SuggestedBindingRedirects.cache
+C:\Users\Archisman Karmakar\Desktop\bankers-Algorithm-main\Bankers_Algorithm_GUI\obj\Release\Bankers_Algorithm.Form1.resources
+C:\Users\Archisman Karmakar\Desktop\bankers-Algorithm-main\Bankers_Algorithm_GUI\obj\Release\Bankers_Algorithm.Properties.Resources.resources
+C:\Users\Archisman Karmakar\Desktop\bankers-Algorithm-main\Bankers_Algorithm_GUI\obj\Release\Bankers_Algorithm.csproj.GenerateResource.cache
+C:\Users\Archisman Karmakar\Desktop\bankers-Algorithm-main\Bankers_Algorithm_GUI\obj\Release\Bankers_Algorithm.csproj.CoreCompileInputs.cache
+C:\Users\Archisman Karmakar\Desktop\bankers-Algorithm-main\Bankers_Algorithm_GUI\bin\Release\Bankers Algorithm.exe.config
+C:\Users\Archisman Karmakar\Desktop\bankers-Algorithm-main\Bankers_Algorithm_GUI\bin\Release\Bankers Algorithm.exe
+C:\Users\Archisman Karmakar\Desktop\bankers-Algorithm-main\Bankers_Algorithm_GUI\bin\Release\Bankers Algorithm.pdb
+C:\Users\Archisman Karmakar\Desktop\bankers-Algorithm-main\Bankers_Algorithm_GUI\obj\Release\Bankers Algorithm.exe
+C:\Users\Archisman Karmakar\Desktop\bankers-Algorithm-main\Bankers_Algorithm_GUI\obj\Release\Bankers Algorithm.pdb
+C:\Users\Archisman Karmakar\Desktop\bankers-Algorithm-main\Bankers_Algorithm_GUI\bin\Release\Bankers Algorithm.exe.CodeAnalysisLog.xml
+C:\Users\Archisman Karmakar\Desktop\bankers-Algorithm-main\Bankers_Algorithm_GUI\bin\Release\Bankers Algorithm.exe.lastcodeanalysissucceeded
