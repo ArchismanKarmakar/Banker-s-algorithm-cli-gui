@@ -2,7 +2,7 @@
 Bnakers Algorithm for operating system<br>
 The banker’s algorithm is a resource allocation and deadlock avoidance algorithm that tests for safety by simulating the allocation for predetermined maximum possible amounts of all resources, then makes an “s-state” check to test for possible activities, before deciding whether allocation should be allowed to continue.
 
-For more information refer to [PDF](https://github.com/ArchismanKarmakar/Banker-s-algorithm-cli-gui/blob/cb29581756fa97d561249dd86f254f3d495526e7/OS.pdf)
+For more information refer to [PDF](https://github.com/ArchismanKarmakar/Banker-s-algorithm-cli-gui)
 
 ## Smaple of GUI 
 ![img](https://user-images.githubusercontent.com/92569441/233306907-5c05c309-6496-497f-a631-4a8f41e7d6a6.png)
